@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateData", "Concaten
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectsCreation", "ProjectsCreation\ProjectsCreation.csproj", "{0D7F9AA0-E226-43D1-A791-5707EBF54546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop", "PetShop\PetShop.csproj", "{6416955E-14CA-4409-AF20-5046E6C3540F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{0D7F9AA0-E226-43D1-A791-5707EBF54546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D7F9AA0-E226-43D1-A791-5707EBF54546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D7F9AA0-E226-43D1-A791-5707EBF54546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6416955E-14CA-4409-AF20-5046E6C3540F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6416955E-14CA-4409-AF20-5046E6C3540F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6416955E-14CA-4409-AF20-5046E6C3540F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6416955E-14CA-4409-AF20-5046E6C3540F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
