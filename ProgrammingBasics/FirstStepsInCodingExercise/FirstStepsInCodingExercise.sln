@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDtoBGN", "USDtoBGN\USDtoBGN.csproj", "{76F25AFA-63EA-460E-9AA4-9E523CBFC40C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02RadiansToDegrees", "02RadiansToDegrees\02RadiansToDegrees.csproj", "{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{76F25AFA-63EA-460E-9AA4-9E523CBFC40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F25AFA-63EA-460E-9AA4-9E523CBFC40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76F25AFA-63EA-460E-9AA4-9E523CBFC40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
