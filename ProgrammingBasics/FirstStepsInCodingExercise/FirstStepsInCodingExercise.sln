@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03DepositCalculator", "03De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04VacationBooksList", "04VacationBooksList\04VacationBooksList.csproj", "{E5F216B4-DFF6-4DAC-99FF-65E024F268BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05SuppliesforSchool", "05SuppliesforSchool\05SuppliesforSchool.csproj", "{2D3B23C7-81C3-4CD6-9E7E-10138F5BAFB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E5F216B4-DFF6-4DAC-99FF-65E024F268BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5F216B4-DFF6-4DAC-99FF-65E024F268BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5F216B4-DFF6-4DAC-99FF-65E024F268BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3B23C7-81C3-4CD6-9E7E-10138F5BAFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3B23C7-81C3-4CD6-9E7E-10138F5BAFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3B23C7-81C3-4CD6-9E7E-10138F5BAFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3B23C7-81C3-4CD6-9E7E-10138F5BAFB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
