@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDtoBGN", "USDtoBGN\USDtoB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02RadiansToDegrees", "02RadiansToDegrees\02RadiansToDegrees.csproj", "{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03DepositCalculator", "03DepositCalculator\03DepositCalculator.csproj", "{8C88253A-AC7D-41A7-9B72-7F843248C84F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A9A2DB0-B431-48ED-8ACE-567A3BF97778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C88253A-AC7D-41A7-9B72-7F843248C84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C88253A-AC7D-41A7-9B72-7F843248C84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C88253A-AC7D-41A7-9B72-7F843248C84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C88253A-AC7D-41A7-9B72-7F843248C84F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
