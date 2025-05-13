@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04PasswordGuess", "04Passwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number100to200", "Number100to200\Number100to200.csproj", "{C90367B4-2979-4A18-8011-EAAD17D722C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06SpeedInfo", "06SpeedInfo\06SpeedInfo.csproj", "{791B3737-CBE2-4E58-B5C3-EB12D093AAAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{C90367B4-2979-4A18-8011-EAAD17D722C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C90367B4-2979-4A18-8011-EAAD17D722C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C90367B4-2979-4A18-8011-EAAD17D722C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791B3737-CBE2-4E58-B5C3-EB12D093AAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791B3737-CBE2-4E58-B5C3-EB12D093AAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791B3737-CBE2-4E58-B5C3-EB12D093AAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791B3737-CBE2-4E58-B5C3-EB12D093AAAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
