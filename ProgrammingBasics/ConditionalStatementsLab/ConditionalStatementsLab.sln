@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02GreaterNumber", "02Greate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EvenorOdd", "03EvenorOdd\03EvenorOdd.csproj", "{B6EFD4F5-EFE8-44C3-83B6-B00256926B94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04PasswordGuess", "04PasswordGuess\04PasswordGuess.csproj", "{63B0E752-404C-4872-A415-FF04938854AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B6EFD4F5-EFE8-44C3-83B6-B00256926B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6EFD4F5-EFE8-44C3-83B6-B00256926B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6EFD4F5-EFE8-44C3-83B6-B00256926B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B0E752-404C-4872-A415-FF04938854AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B0E752-404C-4872-A415-FF04938854AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B0E752-404C-4872-A415-FF04938854AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B0E752-404C-4872-A415-FF04938854AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
