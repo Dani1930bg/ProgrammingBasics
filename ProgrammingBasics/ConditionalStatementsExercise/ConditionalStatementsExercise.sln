@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ToyShop", "04ToyShop\04To
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05GodzillaVSKong", "05GodzillaVSKong\05GodzillaVSKong.csproj", "{355F44DD-3F64-43DA-882F-65B13419BDE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06WorldSwimmingRecord", "06WorldSwimmingRecord\06WorldSwimmingRecord.csproj", "{9E927FB7-0912-475E-BFB6-A40A9DAE9DB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{355F44DD-3F64-43DA-882F-65B13419BDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{355F44DD-3F64-43DA-882F-65B13419BDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{355F44DD-3F64-43DA-882F-65B13419BDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E927FB7-0912-475E-BFB6-A40A9DAE9DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E927FB7-0912-475E-BFB6-A40A9DAE9DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E927FB7-0912-475E-BFB6-A40A9DAE9DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E927FB7-0912-475E-BFB6-A40A9DAE9DB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
