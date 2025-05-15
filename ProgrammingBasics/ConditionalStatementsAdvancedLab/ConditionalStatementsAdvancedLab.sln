@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09FruitOrVegetable", "09Fru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10InvalidNumber", "10InvalidNumber\10InvalidNumber.csproj", "{E4002AFF-D0DC-40EC-80B2-B1C0F3E629D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11FruitShop", "11FruitShop\11FruitShop.csproj", "{8FE3D6F3-0B04-4511-A5A4-58AED4CEE870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{E4002AFF-D0DC-40EC-80B2-B1C0F3E629D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4002AFF-D0DC-40EC-80B2-B1C0F3E629D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4002AFF-D0DC-40EC-80B2-B1C0F3E629D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE3D6F3-0B04-4511-A5A4-58AED4CEE870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE3D6F3-0B04-4511-A5A4-58AED4CEE870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE3D6F3-0B04-4511-A5A4-58AED4CEE870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE3D6F3-0B04-4511-A5A4-58AED4CEE870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
